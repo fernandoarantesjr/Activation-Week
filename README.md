@@ -18,5 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/8c3600ef-5964-4cd3-8f77-002f3
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
-# Activation-Week
-# Activation-Week
+## Projeto: activation_week_exousia
